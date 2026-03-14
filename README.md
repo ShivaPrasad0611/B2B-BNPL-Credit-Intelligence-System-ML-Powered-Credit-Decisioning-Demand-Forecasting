@@ -198,10 +198,5 @@ B2B BNPL allows businesses to:
 ---
 
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 ## ⭐ Star this repo if you found it useful!
